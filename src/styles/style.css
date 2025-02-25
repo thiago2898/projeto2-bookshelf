@@ -32,6 +32,10 @@
     font-size: 9.7px;
     margin: 5px;
     padding: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10.5px;
+    padding-bottom: 10.5px;
     background-color: black;
     color: white;
     text-align: center;
@@ -49,7 +53,9 @@
 }
 
 .buttons-container button {
-    background-color: rgba(8, 150, 216, 0.979);
+    background-color: rgba(9, 165, 243, 0.952);
+    padding-left: 15px;
+    padding-right: 15px;
     border: none;
 }
 
@@ -65,6 +71,10 @@
 .subfooter-container button {
     padding-top: 13px;
     padding-bottom: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10.5px;
+    padding-bottom: 10.5px;
 }
 
 
